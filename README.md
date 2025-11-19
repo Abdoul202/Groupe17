@@ -1,12 +1,4 @@
-<p align="center">
-  <img src="https://www.python.org/static/community_logos/python-logo.png" alt="Python Logo" width="120"/>
-</p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=4000&color=3776AB&center=true&vCenter=true&width=800&lines=CS27+Project:+Road+Trip+Budget+Calculator" alt="Typing SVG"/>
-</h1>
-
----
 
 ## Group Info
 **Members:**  
@@ -40,16 +32,6 @@ It respects all project constraints:
 
 The console interface is **clear and user-friendly**.  
 
----
-
-## Features
-- Pure Python implementation  
-- Handles multiple user inputs  
-- Calculates total trip cost and individual contributions  
-- Strictly follows CS27 project rules  
-- Console interface with clear output  
-
----
 
 ## How to Run
 1. Ensure **Python 3.x** is installed.  
